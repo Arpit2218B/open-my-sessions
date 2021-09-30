@@ -1,5 +1,10 @@
 {
     "name": "Open My Sessions",
     "manifest_version": 3,
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Add websites and open at one go rather than opening one by one."
+    },
+    "options_page": "options.html"
 }
