@@ -106,3 +106,12 @@ h1 {
     text-align: center;
     color: white;
 }
+
+.footer > #clearAll {
+    background-color: var(--primary-color-78);
+    border-radius: 1.5em;
+    padding: 8px;
+    align-self: stretch;
+    text-align: center;
+    color: white;
+}
